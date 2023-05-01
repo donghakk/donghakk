@@ -1,16 +1,26 @@
-### Hi there 👋
+# donghakk
 
-<!--
-**donghakk/donghakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Vim modes
+- Normal mode: press `esc` on ANY mode
+- Insert mode: press `i` on Normal mode
+- Visual mode: press `v` on Normal mode
+- Command mode: press `:` on Normal mode
 
-Here are some ideas to get you started:
+##Installation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```shell
+$ git  clone {repo address}
+$ cd {repo name}
+$ vim README.md
+```
+
+## How to start
+
+```python
+def hello(name):
+    print(f'hello,{name}')
+
+hello('John Doe')
+```
+
+##FEATURES
